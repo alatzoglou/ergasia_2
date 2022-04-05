@@ -1,0 +1,49 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .btn {
+    background-color: rgba(34, 84, 134, 0.934);
+    box-shadow: 3px 3px 6px #000000;
+    text-decoration: underline;
+    text-decoration: #000000;
+    outline: 2px solid rgb(156, 152, 152);
+    outline-offset: 0px;
+  }
+
+  .input-group {
+    box-shadow: 4px 4px 7px rgb(156, 152, 152);
+    background-color: lightgrey;
+    outline: 2px solid rgb(154, 152, 156);
+    outline-offset: 0px;
+
+  }
+
+  .img {
+    width: 1px;
+    position: absolute;
+    right: 55px;
+    margin-top: -90px;
+   
+  }
+
+  h3{
+    text-decoration: underline;
+
+  }
+
+  .col-xs-4{
+    width: 300px;
+    background-color: brown;
+  }
+
+  .container{
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center ;
+    align-items: center;
+    background-color: aqua;
+  }
